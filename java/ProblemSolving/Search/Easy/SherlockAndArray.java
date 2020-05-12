@@ -67,7 +67,7 @@ import java.util.stream.*;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-public class Solution {
+public class SherlockAndArray {
 
     // Complete the balancedSums function below.
     static String balancedSums(List<Integer> arr) {
