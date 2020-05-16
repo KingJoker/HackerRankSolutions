@@ -1,0 +1,4 @@
+java/.idea/*
+java/out/*
+java/input.txt
+java/*.iml
