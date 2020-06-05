@@ -14,7 +14,7 @@ My superclass is: Arithmetic
 42 13 20
  */
 
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Easy;
 
 public class JavaInheritance2 {
 

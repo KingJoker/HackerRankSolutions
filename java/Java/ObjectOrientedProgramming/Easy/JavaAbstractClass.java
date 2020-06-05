@@ -24,7 +24,7 @@ A tale of two cities
 The title is: A tale of two cities
  */
 
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Easy;
 
 import java.util.Scanner;
 

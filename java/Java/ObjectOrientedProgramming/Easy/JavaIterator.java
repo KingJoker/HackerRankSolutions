@@ -31,7 +31,7 @@ Note: The stdin doesn't contain the string "###", it is added in the main method
 To restore the original code in the editor, click the top left icon on the editor and create a new buffer.
  */
 
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Easy;
 
 import java.util.ArrayList;
 import java.util.Iterator;

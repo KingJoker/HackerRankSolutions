@@ -21,7 +21,7 @@ Hacker
 3 1 1
  */
 
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Easy;
 
 import java.util.ArrayList;
 import java.util.Scanner;

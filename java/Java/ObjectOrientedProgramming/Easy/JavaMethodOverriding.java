@@ -32,7 +32,7 @@ Soccer Class
 Each team has 11 players in Soccer Class
  */
 
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Easy;
 
 public class JavaMethodOverriding {
 

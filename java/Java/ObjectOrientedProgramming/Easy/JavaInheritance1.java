@@ -32,7 +32,7 @@ I am singing
  */
 
 
-package ObjectOrientedProgramming;
+package ObjectOrientedProgramming.Easy;
 
 
 

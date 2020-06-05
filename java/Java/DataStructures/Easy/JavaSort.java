@@ -42,7 +42,7 @@ import java.util.List;
 import java.util.Scanner;
 
 //Complete the code
-public class Solution
+public class JavaSort
 {
 
     private static class Student implements Comparable<Student>{
